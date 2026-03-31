@@ -1,6 +1,7 @@
 # Jeu-Du-Loto---Python
 <img width="1846" height="957" alt="image" src="https://github.com/user-attachments/assets/084a6bd3-4b6d-49f1-8729-ac4e809b13a9" />
 
+
 ~ INTRODUCTION ~
 Projet transversal qui a comme objectif de créer un jeu de loto en langage python. Le but est d'allier nos cours de Python et nos cours d'algorithmie pour permettre d'affiner nos compétences et de créer un mini-jeu 
 fonctionnel.
