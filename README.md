@@ -53,3 +53,15 @@ banque. Ensuite, elle calcule un bonus d'ordre en comparant les index de positio
 
 
 Cette fonction gère l'affichage final et l'attribution des lots. Elle compte le nombre de bons numéros pour déterminer le gain du joueur selon trois paliers (grand prix, prix intermédiaire ou petit prix).
+
+<img width="731" height="439" alt="image" src="https://github.com/user-attachments/assets/be23c530-87a2-4c92-8cf9-0aed369d5ec6" />
+
+
+La fonction main est le chef d’orchestre qui coordonne l’exécution du programme en appelant les autres fonctions dans l’ordre. Elle gère le flux de données : de la génération du tirage et la saisie utilisateur vers le 
+calcul des résultats, puis l'affichage des récompenses.
+
+
+<img width="305" height="57" alt="image" src="https://github.com/user-attachments/assets/84c38655-d7e6-40a1-b6a0-3b139d825552" />
+
+
+Ces lignes sécurisent le code et indique à Python de ne lancer le jeu uniquement si le fichier est exécuter directement, elle empêche le programme de démarrer si on décide d'importer ces fonctions dans un autre script.
