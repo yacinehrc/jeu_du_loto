@@ -35,5 +35,21 @@ s'affiche.
 <img width="694" height="194" alt="image" src="https://github.com/user-attachments/assets/4deaa6e8-893f-47d5-b429-b2e8a1353df7" />
 
 
-Fonction permettant le résultat en appelant l'"import random".
+Fonction permettant le résultat en appelant l'"import random" et en affichant les 10 valeurs.
 
+<img width="785" height="630" alt="image" src="https://github.com/user-attachments/assets/62f79354-9535-4c00-9363-d6fb38c7da20" />
+
+
+Permet d'affiche succèssivement les 10 valeurs à entrer, et la structure conditionnelle sert à vérifier que la valeur entrée est comprise entre 1 et 49, si le nombre a déjà été saisi ou non et si l'entrée est un entier. 
+Si les conditions sont respectées, la valeur est ajoutée à la liste "user_nums"
+
+<img width="801" height="308" alt="image" src="https://github.com/user-attachments/assets/8ed46af7-563f-4602-90d6-7306c6be0ca0" />
+
+
+Cette fonction compare les numéros de l'utilisateur avec le tirage officiel en deux temps. D'abord, elle identifie les numéros gagnants en vérifiant quels chiffres de l'utilisateur sont présents dans la liste de la 
+banque. Ensuite, elle calcule un bonus d'ordre en comparant les index de positions de chaque numéro pour voir s'ils ont été saisis dans le même ordre que le tirage.
+
+<img width="769" height="795" alt="image" src="https://github.com/user-attachments/assets/36ea82ff-3966-4025-9985-390f3bed1922" />
+
+
+Cette fonction gère l'affichage final et l'attribution des lots. Elle compte le nombre de bons numéros pour déterminer le gain du joueur selon trois paliers (grand prix, prix intermédiaire ou petit prix).
