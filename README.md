@@ -28,8 +28,12 @@ s'affiche.
 ~ EXPLICATION DU CODE ~
 
 <img width="222" height="27" alt="image" src="https://github.com/user-attachments/assets/502325f4-64c5-43ff-9050-62d541398353" />
+
+
 "import random" permet donc de générer les 10 numéros aléatoires compris entre 1 et 49.
 
 <img width="694" height="194" alt="image" src="https://github.com/user-attachments/assets/4deaa6e8-893f-47d5-b429-b2e8a1353df7" />
+
+
 Fonction permettant le résultat en appelant l'"import random".
 
