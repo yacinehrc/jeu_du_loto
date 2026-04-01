@@ -10,7 +10,7 @@ fonctionnel.
 
 ~ LES ATTENDUS DU PROJET ~
 
-Les contraintes étaient :
+Les attendues étaient :
 - Générer un tirage aléatoire de 10 numéros de loto
 - Permettre à l’utilisateur de saisir ses propres numéros
 - Comparer les résultats
