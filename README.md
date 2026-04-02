@@ -70,4 +70,5 @@ Ces lignes sécurisent le code et indique à Python de ne lancer le jeu uniqueme
 ~ PERSPECTIVES À AMÉLIORER ~
 
 1. Afficher le jeu avec une interface graphique :
+
   → Grâce à une fenêtre (en important la librairie "Tkinter"), nous pouvons afficher le jeu sous une vraie forme de mini-jeu avec une grille, et des animations lors des numéros gagnants.
