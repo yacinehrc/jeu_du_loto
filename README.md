@@ -69,4 +69,12 @@ Ces lignes sécurisent le code et indique à Python de ne lancer le jeu uniqueme
 
 ~ PERSPECTIVES À AMÉLIORER ~
 
-1. Afficher le jeu avec une interface graphique : Grâce à une fenêtre (en important la librairie "Tkinter"), nous pouvons afficher le jeu sous une vraie forme de mini-jeu avec une grille, et des animations lors des numéros gagnants.
+1. Afficher le jeu avec une interface graphique : Grâce à une fenêtre (en important la librairie "Tkinter"), nous pouvons afficher le jeu sous une vraie forme de mini-jeu avec une grille, et des animations lors des
+   numéros gagnants.
+   
+2. Accompagnement de fin de partis : Le jeu pourrais nous demander si l’on veut rejouer ou arrêter de jouer pour finir le programme proprement.
+
+3. Porte-monnaie dynamique : On pourrait faire un système de “porte-monnaie” qui cumulerais les gains au fur et à mesure tant que le joueur est toujours en train de jouer et sauvegarder ses gains pour qu’il puisse y
+rejouer une autre fois.
+
+4. Créer son compte pour la sauvegarde : Faire en sorte que les joueurs créent leur propre compte avec un nom d’utilisateur et un mot de passe.
