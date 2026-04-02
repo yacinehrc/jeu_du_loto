@@ -1,5 +1,5 @@
 # Jeu-Du-Loto-Python
-<img width="1841" height="939" alt="image" src="https://github.com/user-attachments/assets/23d79669-33fb-453c-8b78-a751a0d6f493" />
+<img width="1839" height="946" alt="image" src="https://github.com/user-attachments/assets/96fd10ed-d3f5-479e-ae5a-c311b30cf631" />
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ~ PRÉSENTATION ~
