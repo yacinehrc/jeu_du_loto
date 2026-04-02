@@ -65,3 +65,9 @@ calcul des résultats, puis l'affichage des récompenses.
 
 
 Ces lignes sécurisent le code et indique à Python de ne lancer le jeu uniquement si le fichier est exécuter directement, elle empêche le programme de démarrer si on décide d'importer ces fonctions dans un autre script.
+
+
+~ PERSPECTIVES À AMÉLIORER ~
+
+1. Afficher le jeu avec une interface graphique :
+  → Grâce à une fenêtre (en important la librairie "Tkinter"), nous pouvons afficher le jeu sous une vraie forme de mini-jeu avec une grille, et des animations lors des numéros gagnants.
