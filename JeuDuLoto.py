@@ -5,7 +5,6 @@ def generer_tirage():
 
     # Génère le tirage de la banque.
     # Utilise random.sample pour garantir 10 chiffres uniques entre 1 et 49.
-    # Le sorted() permet de faciliter la comparaison visuelle finale.
 
     return (random.sample(range(1, 50), 10))
 
