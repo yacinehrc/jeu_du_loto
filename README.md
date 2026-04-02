@@ -74,7 +74,7 @@ Ces lignes sécurisent le code et indique à Python de ne lancer le jeu uniqueme
    
 2. Accompagnement de fin de partis : Le jeu pourrais nous demander si l’on veut rejouer ou arrêter de jouer pour finir le programme proprement.
 
-3. Porte-monnaie dynamique : On pourrait faire un système de “porte-monnaie” qui cumulerais les gains au fur et à mesure tant que le joueur est toujours en train de jouer et sauvegarder ses gains pour qu’il puisse y
+3. Porte-monnaie dynamique : On pourrait faire un système de “porte-monnaie” qui cumulerait les gains au fur et à mesure tant que le joueur est toujours en train de jouer et sauvegarder ses gains pour qu’il puisse y
 rejouer une autre fois.
 
 4. Créer son compte pour la sauvegarde : Faire en sorte que les joueurs créent leur propre compte avec un nom d’utilisateur et un mot de passe.
