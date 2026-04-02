@@ -5,8 +5,9 @@ def generer_tirage():
 
     # Génère le tirage de la banque.
     # Utilise random.sample pour garantir 10 chiffres uniques entre 1 et 49.
+    # Le sorted() permet de faciliter la comparaison visuelle finale.
 
-    return random.sample(range(1, 50), 10)
+    return (random.sample(range(1, 50), 10))
 
 def saisir_numeros():
     # Gère la saisie sécurisée de l'utilisateur.
@@ -33,7 +34,7 @@ def saisir_numeros():
             # Gestion d'erreur si l'utilisateur saisit autre chose qu'un entier
             print("Erreur : Veuillez entrer un nombre entier valide.")
 
-    return user_nums
+    return (user_nums)
 
 def calculer_resultats(tirage, saisie):
 
@@ -103,6 +104,5 @@ def main():
 
     afficher_recompense(bons_numeros, bonus_ordre)
 
-# Lancement sécurisé du programme
 if __name__ == "__main__":
     main()
