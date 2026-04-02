@@ -37,7 +37,7 @@ s'affiche.
 
 Fonction permettant le résultat en appelant l'"import random" et en affichant les 10 valeurs.
 
-<img width="785" height="630" alt="image" src="https://github.com/user-attachments/assets/62f79354-9535-4c00-9363-d6fb38c7da20" />
+<img width="813" height="626" alt="image" src="https://github.com/user-attachments/assets/53fd868c-d990-4e5c-9ba3-012382b7d750" />
 
 
 Permet d'affiche succèssivement les 10 valeurs à entrer, et la structure conditionnelle sert à vérifier que la valeur entrée est comprise entre 1 et 49, si le nombre a déjà été saisi ou non et si l'entrée est un entier. 
