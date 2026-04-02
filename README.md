@@ -32,7 +32,7 @@ s'affiche.
 
 "import random" permet donc de générer les 10 numéros aléatoires compris entre 1 et 49.
 
-<img width="694" height="194" alt="image" src="https://github.com/user-attachments/assets/4deaa6e8-893f-47d5-b429-b2e8a1353df7" />
+<img width="715" height="202" alt="image" src="https://github.com/user-attachments/assets/f3554ad9-76f5-4077-9a98-127b9eaf6175" />
 
 
 Fonction permettant le résultat en appelant l'"import random" et en affichant les 10 valeurs.
